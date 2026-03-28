@@ -1,0 +1,5 @@
+{
+  "name": "ResumeAI - Career Optimizer",
+  "description": "AI-powered resume analyzer that provides match scores, skill gap analysis, and role-specific improvements using Gemini.",
+  "requestFramePermissions": []
+}
