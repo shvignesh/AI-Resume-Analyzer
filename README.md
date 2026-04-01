@@ -2,6 +2,47 @@
 
 AI-powered resume analyzer that provides match scores, skill gap analysis, and role-specific improvements using Gemini 3 Flash.
 
+## 📸 Screenshots
+
+### 1. Landing Page
+![Landing Page](public/screenshots/landing.png)
+*The main interface of ResumeAI, designed for a seamless user experience.*
+
+### 2. Upload & Analyze
+![Upload Section](public/screenshots/upload.png)
+*Easily upload your resume and paste the job description for instant analysis.*
+
+### 3. Analysis Summary
+![Analysis Summary](public/screenshots/summary.png)
+*Get a comprehensive match score and quality rating for your profile.*
+
+### 4. Role-Specific Improvements
+![Improvements](public/screenshots/improvements.png)
+*Actionable tips tailored to the specific job role you're targeting.*
+
+### 5. Skills Gap Analysis
+![Skills Analysis](public/screenshots/skills.png)
+*Identify matched and missing skills to bridge the gap.*
+
+### 6. ATS Compatibility & Keywords
+![ATS and Keywords](public/screenshots/ats_keywords.png)
+*Ensure your resume is ATS-friendly and contains the right keywords.*
+
+## ⚙️ Working Process
+
+1.  **Upload Resume**: Start by uploading your resume in PDF, TXT, DOC, or DOCX format.
+2.  **Paste Job Description**: Provide the full job listing you are aiming for.
+3.  **AI Analysis**: Our Gemini-powered engine analyzes your resume against the job requirements.
+4.  **Review Insights**: Get detailed feedback on match percentage, skill gaps, and ATS compatibility.
+5.  **Iterate**: Use the suggestions to refine your resume and re-analyze for a better score.
+
+## 🎯 Key Uses
+
+*   **Resume Optimization**: Tailor your resume to specific job descriptions effectively.
+*   **Skill Gap Identification**: Know exactly what skills you're missing for a target role.
+*   **ATS Optimization**: Improve your chances of passing through automated screening systems.
+*   **Career Guidance**: Get professional-grade suggestions on how to quantify your impact.
+
 ## 🚀 Local Setup
 
 To run this application on your computer, follow these steps:
