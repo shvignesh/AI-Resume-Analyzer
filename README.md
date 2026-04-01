@@ -5,28 +5,37 @@ AI-powered resume analyzer that provides match scores, skill gap analysis, and r
 ## 📸 Screenshots
 
 ### 1. Landing Page
-![Landing Page](public/screenshots/landing.png)
+<img width="1899" height="906" alt="image" src="https://github.com/user-attachments/assets/2502148c-8c33-42bf-9a55-a31f5b968eda" />
 *The main interface of ResumeAI, designed for a seamless user experience.*
 
 ### 2. Upload & Analyze
-![Upload Section](public/screenshots/upload.png)
+<img width="1897" height="912" alt="image" src="https://github.com/user-attachments/assets/8c321b74-9abd-4786-aa1c-38db5035af07" />
 *Easily upload your resume and paste the job description for instant analysis.*
 
 ### 3. Analysis Summary
-![Analysis Summary](public/screenshots/summary.png)
+<img width="1896" height="843" alt="image" src="https://github.com/user-attachments/assets/f69460e5-b625-43e0-99f3-d2bdd8164a0c" />
 *Get a comprehensive match score and quality rating for your profile.*
 
 ### 4. Role-Specific Improvements
-![Improvements](public/screenshots/improvements.png)
+<img width="1892" height="842" alt="Screenshot 2026-04-01 190139" src="https://github.com/user-attachments/assets/c2c1d685-bd1c-4f24-87d9-c7c16fab719b" />
 *Actionable tips tailored to the specific job role you're targeting.*
 
-### 5. Skills Gap Analysis
-![Skills Analysis](public/screenshots/skills.png)
-*Identify matched and missing skills to bridge the gap.*
+### 5. Skills Analysis
+<img width="1889" height="842" alt="Screenshot 2026-04-01 190211" src="https://github.com/user-attachments/assets/98107bfe-523d-4619-84b6-03bf82023eaf" />
+*Identify matched and missing skills & Section Breakdown*
 
-### 6. ATS Compatibility & Keywords
-![ATS and Keywords](public/screenshots/ats_keywords.png)
+### 6. Suggestions Analysis
+<img width="1889" height="831" alt="Screenshot 2026-04-01 190245" src="https://github.com/user-attachments/assets/7160202c-e049-494a-93db-fcb19ca94ad3" />
+*suggest some keywords to improve the ATS score*
+
+
+### 7. ATS Compatibility & Keywords
+<img width="1895" height="847" alt="Screenshot 2026-04-01 190302" src="https://github.com/user-attachments/assets/9c7de6a0-77c3-46f1-979c-b1405055685d" />
+
 *Ensure your resume is ATS-friendly and contains the right keywords.*
+### 8. Keywords Analysis
+<img width="1878" height="844" alt="Screenshot 2026-04-01 190332" src="https://github.com/user-attachments/assets/3bf4a5ac-cf99-43db-9bc1-5397f4fbafc2" />
+*Compareing keywords between Resume & JD Keywords*
 
 ## ⚙️ Working Process
 
